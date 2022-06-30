@@ -1,0 +1,22 @@
+.icon-img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 15rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #fcba03;
+    border-color: #fcba03 !important;
+}
+
+.reset {
+    color: black;
+}
+
+.img {
+    width: 220%;
+    height: fit-content;
+    margin-left: 5rem;
+}
+
